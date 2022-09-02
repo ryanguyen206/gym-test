@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Documents\\PROG209"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\MovieLocal\\NodeCourseProjectV4-CSS-Delete"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\NotesProjectFiles"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\HeroMonsterV2-theme-borders"
+		},
+		{
+			"path": "..\\..\\9projects"
+		},
+		{
+			"path": "..\\..\\..\\Documents\\React"
+		},
+		{
+			"path": "..\\..\\css-practice"
+		},
+		{
+			"path": "..\\..\\Practice Projects for HTML,CSS,JS\\Project 4 - Anita's Sample Website"
+		},
+		{
+			"path": "..\\..\\DSA"
+		},
+		{
+			"path": "..\\..\\mern-stack"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\shopping-app"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\workout-app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HW7-main"
+	}
+}
