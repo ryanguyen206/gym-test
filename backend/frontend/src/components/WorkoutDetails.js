@@ -13,7 +13,7 @@ const WorkoutDetails = ({ workout }) => {
       return
     }
 
-    const response = await fetch('https://workoutappdb.herokuapp.com//api/workouts/' + workout._id, {
+    const response = await fetch('https://workoutappdata.herokuapp.com/api/workouts/' + workout._id, {
       method: 'DELETE',
       headers: {
         'Authorization': `Bearer ${user.token}`

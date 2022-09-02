@@ -10,7 +10,7 @@ export const useSignup = () => {
     setIsLoading(true)
     setError(null)
 
-    const response = await fetch('https://workoutappdb.herokuapp.com/api/user/signup', {
+    const response = await fetch('https://workoutappdata.herokuapp.com/api/user/signup', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({ email, password })
